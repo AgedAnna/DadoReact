@@ -1,6 +1,6 @@
 import './Placar.css';
 
-const Placar = ({ vitoriasP1, vitoriasP2 })  => {
+const Placar = ( vitoriasP1, vitoriasP2 )  => {
   return (
     <div className="placar">
       <p>Placar:</p>
