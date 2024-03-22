@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DadoReact/static/css/main.1c835a73.css",
+    "main.js": "/DadoReact/static/js/main.0af982eb.js",
+    "index.html": "/DadoReact/index.html",
+    "main.1c835a73.css.map": "/DadoReact/static/css/main.1c835a73.css.map",
+    "main.0af982eb.js.map": "/DadoReact/static/js/main.0af982eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c835a73.css",
+    "static/js/main.0af982eb.js"
+  ]
+}
