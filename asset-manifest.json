@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DadoReact/static/css/main.1c835a73.css",
-    "main.js": "/DadoReact/static/js/main.0af982eb.js",
+    "main.css": "/DadoReact/static/css/main.31f9d4c7.css",
+    "main.js": "/DadoReact/static/js/main.8aaad45c.js",
     "index.html": "/DadoReact/index.html",
-    "main.1c835a73.css.map": "/DadoReact/static/css/main.1c835a73.css.map",
-    "main.0af982eb.js.map": "/DadoReact/static/js/main.0af982eb.js.map"
+    "main.31f9d4c7.css.map": "/DadoReact/static/css/main.31f9d4c7.css.map",
+    "main.8aaad45c.js.map": "/DadoReact/static/js/main.8aaad45c.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c835a73.css",
-    "static/js/main.0af982eb.js"
+    "static/css/main.31f9d4c7.css",
+    "static/js/main.8aaad45c.js"
   ]
 }
