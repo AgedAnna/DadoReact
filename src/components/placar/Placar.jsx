@@ -1,6 +1,6 @@
-import './Placar.css';
+import "./Placar.css";
 
-const Placar = ( vitoriasP1, vitoriasP2 )  => {
+const Placar = ({ vitoriasP1, vitoriasP2 }) => {
   return (
     <div className="placar">
       <p>Placar:</p>
@@ -8,7 +8,6 @@ const Placar = ( vitoriasP1, vitoriasP2 )  => {
       <p>Jogador 2: {vitoriasP2}</p>
     </div>
   );
-}
+};
 
 export default Placar;
-
