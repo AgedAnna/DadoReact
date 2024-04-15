@@ -2,10 +2,6 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 .App-header {
   background-color: #282c34;
@@ -34,6 +30,7 @@
   cursor: pointer;
   box-shadow: 3px 6px 5px 0px rgba(0, 0, 0, 0.75);
   transition: 300ms;
+  margin: 15px;
 }
 
 .button:active {
